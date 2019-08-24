@@ -1,0 +1,1 @@
+# To jest repozytorium Pawel Juszczak
